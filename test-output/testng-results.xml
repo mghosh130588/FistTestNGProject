@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="11779" started-at="2020-12-23T06:05:18 CET" finished-at="2020-12-23T06:05:30 CET">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="11779" started-at="2020-12-23T06:05:18 CET" finished-at="2020-12-23T06:05:30 CET">
+      <class name="FirstTestng.PriorityTest">
+        <test-method status="PASS" signature="openbrowser()[pri:0, instance:FirstTestng.PriorityTest@5ae63ade]" name="openbrowser" is-config="true" duration-ms="4038" started-at="2020-12-23T06:05:18 CET" finished-at="2020-12-23T06:05:22 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method status="PASS" signature="launchurl()[pri:1, instance:FirstTestng.PriorityTest@5ae63ade]" name="launchurl" duration-ms="6228" started-at="2020-12-23T06:05:22 CET" finished-at="2020-12-23T06:05:28 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchurl -->
+        <test-method status="PASS" signature="sperformearchtext()[pri:2, instance:FirstTestng.PriorityTest@5ae63ade]" name="sperformearchtext" duration-ms="1119" started-at="2020-12-23T06:05:28 CET" finished-at="2020-12-23T06:05:30 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sperformearchtext -->
+        <test-method status="PASS" signature="facebookverifyresult()[pri:3, instance:FirstTestng.PriorityTest@5ae63ade]" name="facebookverifyresult" duration-ms="38" started-at="2020-12-23T06:05:30 CET" finished-at="2020-12-23T06:05:30 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- facebookverifyresult -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:FirstTestng.PriorityTest@5ae63ade]" name="closeBrowser" is-config="true" duration-ms="301" started-at="2020-12-23T06:05:30 CET" finished-at="2020-12-23T06:05:30 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- FirstTestng.PriorityTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
